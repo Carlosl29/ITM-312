@@ -1,0 +1,3 @@
+﻿  project1.cpp
+d:\cloz2\documents\school\fall2017\itm312\lab1\project1\project1\project1.cpp(9): error C2065: 'cout': undeclared identifier
+d:\cloz2\documents\school\fall2017\itm312\lab1\project1\project1\project1.cpp(9): error C2065: 'endl': undeclared identifier

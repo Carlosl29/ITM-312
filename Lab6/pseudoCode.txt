@@ -1,0 +1,25 @@
+Pseudocode
+
+Class PersonData:
+	-string lastName 
+	-string firstName
+	-string address
+	-string city
+	-string state
+	-int zip
+	-int phone
+
+	- Each attribute has a get() and set()
+	
+Class CustomerData:
+	- Derived from PersonData
+	- int customerNumber
+	- bool mailingList
+		- true if customer wants to be on mailList
+		- false if customer wants to not be on mailList
+
+	- get() and set() for customerNumber and mailingList
+
+
+int main()
+	- Display everything about a CustomerData object
